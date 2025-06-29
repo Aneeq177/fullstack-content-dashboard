@@ -1,10 +1,7 @@
 # Full-Stack Content Dashboard
 
-A full-stack web application built to demonstrate a modern web development workflow. This project features a React front-end that fetches data from a custom Node.js/Express back-end API, which in turn retrieves data from a PostgreSQL database. The database is populated by a separate Node.js script that fetches live data from the public JSONPlaceholder API.
+A full-stack web application built to demonstrate a modern web development workflow. This project features a React front-end that fetches data from a custom Node.js/Express back-end API, which in turn retrieves data from a PostgreSQL database. The database is populated by a separate Node.js script that fetches live data from the public JSONPlaceholder API.![Webapp_screenshot](https://github.com/user-attachments/assets/6e4c6c3f-279a-4043-bf63-c55000ca1441)
 
-## Live Demo
-
-[Link to your live demo if you deploy it on a service like Vercel or Netlify]
 
 ## Features
 
@@ -23,7 +20,7 @@ A full-stack web application built to demonstrate a modern web development workf
 
 ## How To Run
 
-1.  **Clone the repository:** `git clone [your-repo-link]`
+1.  **Clone the repository:** `git clone https://github.com/Aneeq177/fullstack-content-dashboard.git
 2.  **Set up the back-end:**
     -   `cd server`
     -   `npm install`
