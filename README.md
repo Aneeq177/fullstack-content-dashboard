@@ -1,10 +1,8 @@
 # Full-Stack Content Dashboard
 
-This full-stack application was built from the ground up to demonstrate the complete development lifecycle, from initial setup to a polished, portfolio-ready project. The initial goal was to display live sports data, which required integrating with third-party APIs.
+This full-stack application was built from the ground up to demonstrate the complete development lifecycle, from initial setup to a polished, portfolio-ready project. The project was initially designed to use live sports APIs. During development, I encountered real-world constraints with these third-party services, including service outages and paywalled data access.
 
-During development, real-world challenges with API availability and paywalls necessitated a pivot. The application was successfully re-engineered to use the reliable and open JSONPlaceholder API, demonstrating adaptability and problem-solving.
-
-The result is a robust PERN stack (PostgreSQL, Express, React, Node.js) application that features a custom back-end REST API, a separate data-synchronization script, and a dynamic, styled front-end that displays the live-fetched data.
+In response, I made a strategic decision to pivot the data source to ensure the project's successful completion and stability. I researched and evaluated several public APIs, selecting JSONPlaceholder for its proven reliability. The back-end data ingestion script was then re-engineered to fetch, process, and store this new data, demonstrating a practical ability to adapt to changing project requirements and deliver a fully functional application.
 JSONPlaceholder API.![Webapp_screenshot](https://github.com/user-attachments/assets/6e4c6c3f-279a-4043-bf63-c55000ca1441)
 
 
