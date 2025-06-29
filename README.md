@@ -1,6 +1,11 @@
 # Full-Stack Content Dashboard
 
-A full-stack web application built to demonstrate a modern web development workflow. This project features a React front-end that fetches data from a custom Node.js/Express back-end API, which in turn retrieves data from a PostgreSQL database. The database is populated by a separate Node.js script that fetches live data from the public JSONPlaceholder API.![Webapp_screenshot](https://github.com/user-attachments/assets/6e4c6c3f-279a-4043-bf63-c55000ca1441)
+This full-stack application was built from the ground up to demonstrate the complete development lifecycle, from initial setup to a polished, portfolio-ready project. The initial goal was to display live sports data, which required integrating with third-party APIs.
+
+During development, real-world challenges with API availability and paywalls necessitated a pivot. The application was successfully re-engineered to use the reliable and open JSONPlaceholder API, demonstrating adaptability and problem-solving.
+
+The result is a robust PERN stack (PostgreSQL, Express, React, Node.js) application that features a custom back-end REST API, a separate data-synchronization script, and a dynamic, styled front-end that displays the live-fetched data.
+JSONPlaceholder API.![Webapp_screenshot](https://github.com/user-attachments/assets/6e4c6c3f-279a-4043-bf63-c55000ca1441)
 
 
 ## Features
